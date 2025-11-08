@@ -13,28 +13,33 @@
 
 ---
 
-### 🌱 I’m currently learning
-<p align="center">
+### 🌱 I’m currently learning  
+<p align="left">
   <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank">
-    <img src="assets/french-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="French Flag"/>
-    <img src="assets/spanish-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="Spanish Flag"/>
-    <img src="assets/english-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="English Flag"/>
+    <p align="center">
+      <img src="assets/french-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white; margin-right:8px;" alt="French Flag"/> &nbsp;  
+      <img src="assets/spanish-flag-round.svg" width="53" style=" margin-right:8px; margin-top:50px" alt="Spanish Flag"/> &nbsp;
+      <img src="assets/english-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white;" alt="English Flag"/>
+    </p>
   </a>
 </p>
 
-<p align="center">
-  Currently diving into  
-  <img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="Next.js Icon"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io-icon.svg" width="30" alt="n8n Icon"/>
+### ⚙️ Currently diving into  
+<p align="left">
+    <p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js Icon" style="margin-right:10px;"/> &nbsp;  &nbsp;
+  <img src="assets/N8N-badge.png" width="45" alt="n8n Icon" style="border-radius:8px;"/>
+    </p>
 </p>
+
 
 
 ---
 
 ### 💬 Ask me about
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="25"/>  &nbsp; | &nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="25"/> 
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>  &nbsp;  &nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="50"/> 
 </p>
 
 ---
@@ -49,17 +54,17 @@
 ### 🤝 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/mohammed amine saidi" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a> &nbsp;
   <a href="https://stackoverflow.com/users/28622486" target="blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" />
+  </a> &nbsp;
   <a href="https://discord.gg/DHYP7PJp" target="blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45"  />
+  </a> &nbsp;
   <a href="https://www.instagram.com/aminox_saidi?igsh=MThsMHd5ejB4aDJlbQ==" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+  </a> &nbsp;
 </p>
 
 ---
