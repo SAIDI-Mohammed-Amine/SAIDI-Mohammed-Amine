@@ -14,14 +14,20 @@
 ---
 
 ### 🌱 I’m currently learning
-[![french flag](assets/french-flag-round.svg)](https://www.duolingo.com/profile/mohammed150241)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/mohammed150241)
-[![english flag](assets/english-flag-round.svg)](https://www.duolingo.com/profile/mohammed150241)
+<p align="center">
+  <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank">
+    <img src="assets/french-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="French Flag"/>
+    <img src="assets/spanish-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="Spanish Flag"/>
+    <img src="assets/english-flag-round.svg" width="60" style="border-radius:15px; border:2px solid white; margin:5px;" alt="English Flag"/>
+  </a>
+</p>
+
 <p align="center">
   Currently diving into  
-  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/>  , 
-  <img src="https://skillicons.dev/icons?i=n8n" width="25"/> 
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="Next.js Icon"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io-icon.svg" width="30" alt="n8n Icon"/>
 </p>
+
 
 ---
 
