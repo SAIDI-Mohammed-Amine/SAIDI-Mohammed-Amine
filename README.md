@@ -14,14 +14,17 @@
 ---
 
 ### 🌱 I’m currently learning  
-<p align="left">
-  <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank">
-    <p align="center">
-      <img src="assets/french-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white; margin-right:8px;" alt="French Flag"/> &nbsp;  
-      <img src="assets/spanish-flag-round.svg" width="53" style=" margin-right:8px; margin-top:50px" alt="Spanish Flag"/> &nbsp;
-      <img src="assets/english-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white;" alt="English Flag"/>
-    </p>
+<p align="center">
+  <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank"  style="text-decoration:none;" >
+      <img src="assets/french-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white; margin-right:8px;" alt="French Flag"/> &nbsp; 
   </a>
+   <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank" style="text-decoration:none;">
+      <img src="assets/spanish-flag-round.svg" width="53" style=" margin-right:8px; margin-top:50px" alt="Spanish Flag"/> &nbsp;
+       </a>
+      <a href="https://www.duolingo.com/profile/mohammed150241" target="_blank" style="text-decoration:none;">
+      <img src="assets/english-flag-round.svg" width="50" style="border-radius:12px; border:2px solid white;" alt="English Flag"/>
+        </a>
+    
 </p>
 
 ### ⚙️ Currently diving into  
@@ -46,14 +49,14 @@
 
 ### 📫 Reach me at
 <p align="center">
-  📧 <b>saidimohammedamine11@gmail.com</b>
+  📧  <a href="mailto:saidimohammedamine11@gmail.com"><b>saidimohammedamine11@gmail.com</b></a>
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/mohammed amine saidi" target="blank">
+  <a href="https://www.linkedin.com/in/mohammed-amine-saidi-b0b551344" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
   </a> &nbsp;
   <a href="https://stackoverflow.com/users/28622486" target="blank">
