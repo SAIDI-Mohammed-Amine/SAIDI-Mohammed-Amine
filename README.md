@@ -1,44 +1,48 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine SAIDI</h1>
-<h3 align="center">A passionate full-stack web developer from Morocco</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Morocco</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saidi-mohammed-amine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saidi-mohammed-amine" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saidi-mohammed-amine&theme=tokyonight&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **my Own SaaS**
+---
 
-- 🌱 I’m currently learning  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spanish/spanish-original.svg" width="25" /> **Spanish** 🇪🇸  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/english/english-original.svg" width="25" /> **English** 🇬🇧  
-  <br>
-  <br>Currently diving into  
-  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> **Next.js**,  
-  <img src="https://skillicons.dev/icons?i=n8n" width="25"/> **n8n**
-
-- 👯 I’m looking to collaborate on **any project — feel free to contact me**
-
-- 🤝 I’m looking for help with **my SaaS Idea**
-
-- 💬 Ask me about  
-  <img src="https://skillicons.dev/icons?i=react" width="25"/> **React** ,  
-  <img src="https://skillicons.dev/icons?i=laravel" width="25"/> **Laravel**
-
-- 📫 How to reach me **saidimohammedamine11@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11z0xks0Bsn7EPByWZdZu9djlvmH2Z8U4/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I got time**
+### 🌱 I’m currently learning
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+<p align="center">
+  **Spanish** &nbsp;|&nbsp; **English**  
+  <br><br>
+  Currently diving into  
+  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/>  , 
+  <img src="https://skillicons.dev/icons?i=n8n" width="25"/> 
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 💬 Ask me about
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="25"/>  &nbsp; | &nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="25"/> 
+</p>
+
+---
+
+### 📫 Reach me at
+<p align="center">
+  📧 <b>saidimohammedamine11@gmail.com</b>
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
   <a href="https://linkedin.com/in/mohammed amine saidi" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
   </a>
@@ -55,21 +59,27 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### 🛠️ Languages and Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,postgres,python,docker,git,figma,linux,postman,zapier" />
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidi-mohammed-amine&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidi-mohammed-amine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidi-mohammed-amine&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidi-mohammed-amine&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidi-mohammed-amine" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saidi-mohammed-amine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### ⚡ Fun fact
+<p align="center">I think I got time ⏳</p>
